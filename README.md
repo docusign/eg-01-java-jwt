@@ -1,1 +1,1 @@
-# eg-01-java-jwt
+## This repo has been replaced by [the new Java code examples repo](https://github.com/docusign/code-examples-java)
